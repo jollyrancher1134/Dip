@@ -1,0 +1,36 @@
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Unreal generated
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Compiled
+*.com
+*.dll
+*.exe
+*.o
+*.obj
+*.pdb
+
+# Builds
+Packaged/
+Cooked/
+*.ipa
+*.apk
+
+# OS
+.DS_Store
+Thumbs.db
+*.stackdump
