@@ -1,0 +1,11 @@
+{
+  "level_name": "VRTemplateMap",
+  "player_start": { "x": 0, "y": 0, "z": 90 },
+  "teleport_enabled": true,
+  "grab_enabled": true,
+  "objects": [
+    { "id": "table_01", "type": "StaticMesh", "mesh": "SM_TableRound" },
+    { "id": "cube_grab_01", "type": "GrabbableCube", "mesh": "SM_Cube" }
+  ],
+  "ambient_light_intensity": 1.0
+}
