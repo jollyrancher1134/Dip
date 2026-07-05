@@ -7,5 +7,5 @@
     { "id": "table_01", "type": "StaticMesh", "mesh": "SM_TableRound" },
     { "id": "cube_grab_01", "type": "GrabbableCube", "mesh": "SM_Cube" }
   ],
-  "ambient_light_intensity": 1.0
+  "ambient_light_intensity": 2.5
 }
