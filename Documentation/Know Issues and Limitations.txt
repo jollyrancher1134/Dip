@@ -1,0 +1,13 @@
+**Know Issues and Limitations:**
+
+~ Lumen lighting is not baked. The editor will prompt a warning about unbuilt lighting, but it does not affect the gameplay and the build of the game. 
+
+~ There is only one type of treat to choose from. Multiple fruit variants were attempted for implementation but had issues with coating and triggering. They were temporarily disabled for the deadline. 
+
+~ The customer is stationary inside of the candy store. The customer does react upon player spawn in for the player, and the final grading, but does not walk around the store. This was intentional to maintain the gameplay loop. 
+
+~ Time pressure has not been implemented yet. The customer patience timers were planned for but not implemented, so at the moment players can take as much time as needed to design the candy without penalty. 
+
+~ Sprinkles use an opacity overlay rather than a sprinkle count reveal.
+
+~ Game is ran through tethered only. It runs via PC VR. 

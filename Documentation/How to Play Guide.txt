@@ -1,0 +1,27 @@
+** How to Play Guide: **
+
+The player is transformed into the role of a candy maker, dipping candy into chocolate and designing it with sprinkles, to the liking of the customer. 
+
+~ The Game Loop:
+
+1. The player greets the customer, as the customer waves at them from the other end of the counter. The player must walk up to them to receive their order.
+
+2. Player then reads the order slip that is propped up to the left of the cash register against the cactus plant. The order contains 3 images (a strawberry, chocolate, and sprinkles), each with a metric bar to the right of the image. The first bar is the final grading, while the other two are the amounts of chocolate and sprinkle preferences. 
+
+3. Reaching into the rectangular tray, the player will then take the fruit to prepare for the dip.
+
+4. The player then dips the fruit into the chocolate pot. The amount of the chocolate is controlled by the depth of how far the player is to dip it into the pot.
+
+5. The player then will take their chocolate dipped fruit to the tray of sprinkles, to then dip it inside to cover with sprinkles. Holding it inside the tray of sprinkles determines the amount of sprinkle coverage the fruit will have.
+
+6. Taking the finished design to the customer, the player will place the fruit on the serving plate, for then the customer to output their grading on the order receipt next to the register. 
+
+~ How the Score Works: 
+
+The dip and design of each desert is scaled to the set preferences from the customer. It is scaled to the amount of chocolate dip and sprinkles they want covering their fruit. The player is tasked to try to design and dip the fruit as close to their order as possible. The reaction from the customer depends on how close the player is able to match their order preferences.
+
+~ Control System:
+
+- Movement: Movement includes teleport location, and free walking (if player has the space)
+- Grabbing and Releasing: Grab and hold with the right trigger on controller; release the trigger to release the item.
+- Menu Access: Menu button on the oculus controller opens the settings menu. 

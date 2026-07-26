@@ -1,0 +1,21 @@
+** Platform Requirements and Install
+
+~ Hardware/System Requirements:
+
+- Hardware: Meta Quest 2 headset
+- PC: Windows, works with PC-VR tethered with the Meta Horizon Link. 
+- Software: Unreal Engine 5.7, Meta Horizon Link
+- Runtime: OpenXR
+
+This software is designed for PC-VR, it's not compatible with stand alone headsets. 
+
+~ Installation and Run: 
+
+1. Clone Dip Repository: 
+https://github.com/jollyrancher1134/Dip.git
+
+2. Open Dip.uproject inside of the Unreal 5.7 launcher
+
+3. Download and connect Meta Quest 2 to pc through the Meta Horizon Link application
+
+4. After opening the Unreal Project, select "VR Preview" to play inside the editor to play with the headset. 

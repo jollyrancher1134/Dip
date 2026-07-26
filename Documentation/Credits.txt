@@ -1,0 +1,38 @@
+**Credits**
+
+All assets used under free or Creative Commons licenses. See each link for
+individual license terms.
+
+~ 3D Models — Poly Pizza
+
+- Animated Woman, Quaternius: https://poly.pizza/m/nIItLV9nxS
+- https://poly.pizza/m/jAUb3FoCN7
+- https://poly.pizza/m/9eedkubZNOO
+- https://poly.pizza/m/7H5qKjuxVY
+- https://poly.pizza/m/NNlnaiDJIh
+- https://poly.pizza/m/OTJPOdps4p
+- https://poly.pizza/m/QBFNwiFQSi
+- https://poly.pizza/m/X9msj0gtb5
+
+~ 3D Models: 
+
+- Cartoon Low Poly Cafe Bakery, Sketchfab: https://sketchfab.com/3d-models/cartoon-low-poly-cafe-bakery-7a27efd9aa5d43b4be00cc13d9be174a
+- Low Poly Fruits and Vegetables, sjolle (itch.io): https://sjolle.itch.io/low-poly-fruits-and-vegetables
+
+~ 2D Art & Icons
+
+- Ice cream sprinkle pattern, Vecteezy: https://www.vecteezy.com/vector-art/4301642
+- Chocolate bar icon, Flaticon: https://www.flaticon.com/free-icon/chocolate-bar_1152198
+- Strawberry icon, Flaticon: https://www.flaticon.com/free-icon/strawberry_6866488
+- Sprinkles icon, Flaticon: https://www.flaticon.com/free-icon/sprinkles_5070271
+
+~ Audio
+
+- Lofi Jazz, Pixabay: https://pixabay.com/music/lofi-lofi-jazz-music-485312/
+
+~ Engine & Tools
+
+- Unreal Engine 5.7
+- Blueprints Visual Scripting
+- OpenXR
+- Meta Quest 2 / Meta Horizon Link
